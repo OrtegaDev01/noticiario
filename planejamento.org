@@ -1,0 +1,25 @@
+#+title: Planejamento
+
+* Oque o site vai ser?
+
+* Oque o usuário comum é capaz de fazer?
+O usuário comum é caaz de fazer:
+1. Ler as notícias.
+2. Comentar
+3. Editar o próprio comentário
+
+
+* Oque o usuário redator é capaz de fazer?
+O usuário redator deve ser capaz de:
+1. Públicar noticias
+2. Trocar de foto de perfil
+3. Visualizar os comentários
+4. Comentar
+5. Editar a notícia
+6. Editar o próprio comentário
+7. Apagar comentários ofensivos
+
+
+* Artigos que usei pra fazer o sistema
+1. [[https://www.alura.com.br/conteudo/php-pdo-banco-de-dados][PHP e PDO: trabalhando com bancos de dados]]
+   - [[][]]
