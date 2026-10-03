@@ -19,7 +19,10 @@ O usuário redator deve ser capaz de:
 6. Editar o próprio comentário
 7. Apagar comentários ofensivos
 
+* Sobre a Programação Orientada a Objetos
+-
+
+
 
 * Artigos que usei pra fazer o sistema
 1. [[https://www.alura.com.br/conteudo/php-pdo-banco-de-dados][PHP e PDO: trabalhando com bancos de dados]]
-   - [[][]]
